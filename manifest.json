@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Codex 凭据导出器",
+  "version": "2.0.0",
+  "description": "从浏览器 chatgpt.com 登录态抓取 OAuth access_token,组装成 Codex CLI 的 auth.json 并复制到剪贴板。",
+  "permissions": [
+    "clipboardWrite"
+  ],
+  "host_permissions": [
+    "https://chatgpt.com/*"
+  ],
+  "action": {
+    "default_title": "Codex 凭据导出",
+    "default_popup": "popup.html"
+  }
+}
