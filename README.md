@@ -1,7 +1,12 @@
+[中文](#chinese) | [English](#english)
+
+<a id="chinese"></a>
+
 # Codex 凭据导出器 / Codex Credentials Exporter
 
-一个用于从浏览器当前 `chatgpt.com` 登录态中提取 OAuth `access_token`、生成 Codex CLI `auth.json` 并复制到剪贴板的 Chrome 扩展。  
-A Chrome extension that extracts the OAuth `access_token` from the current `chatgpt.com` browser session, generates a Codex CLI `auth.json`, and copies it to the clipboard.
+> 一个用于从浏览器当前 `chatgpt.com` 登录态中提取 OAuth `access_token`、生成 Codex CLI `auth.json` 并复制到剪贴板的 Chrome 扩展。
+>
+> A Chrome extension that extracts the OAuth `access_token` from the current `chatgpt.com` browser session, generates a Codex CLI `auth.json`, and copies it to the clipboard.
 
 ---
 
@@ -65,6 +70,8 @@ A Chrome extension that extracts the OAuth `access_token` from the current `chat
 本项目采用 Apache License 2.0，详见 [LICENSE](./LICENSE)。
 
 ---
+
+<a id="english"></a>
 
 ## English
 
